@@ -21,7 +21,7 @@ currently_building:
   - FraudSys — ML fraud detection SOC platform (collab)
   - UI Component Library
 looking_for: Frontend / Cybersecurity Internships
-portfolio: muskan775.github.io
+portfolio: yadavmuskan501-cloud.github.io
 ```
 
 ---
